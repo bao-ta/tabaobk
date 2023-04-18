@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15390
-Fork on GitHub
-4203
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Mobile Developer Ta Thanh Bao</h1>
 <h3 align="center">1 year experience as Mobile developer</h3>
 

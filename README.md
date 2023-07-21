@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mobile Developer Ta Thanh Bao</h1>
 <h3 align="center">1 year experience as Mobile developer</h3>
 
-- 🔭 Worked on **NTQ Solution**
+- 🔭 Worked on **NTQ Solution, VTI**
 
 - 🌱 I’m currently working with **Flutter, Android Native**
 
